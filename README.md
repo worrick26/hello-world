@@ -1,4 +1,4 @@
 # hello-world
 an experiment - I'm following the GitHub Guides tutorial.
 
-There is nothing more to read, yet...
+I'm here primarily because I've recently become a heavy sagemath user and need to follow that project more closely.
